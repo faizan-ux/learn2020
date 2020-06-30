@@ -1,4 +1,5 @@
 ### Basic linux commands
 
-pwd:  print working directory
+pwd:  print working directory 
+
 cd: change directory
