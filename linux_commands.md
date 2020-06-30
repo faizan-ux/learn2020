@@ -1,3 +1,3 @@
 ### Basic linux commands
 
-pwd:  
+pwd:  print working directory
