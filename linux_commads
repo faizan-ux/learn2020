@@ -1,0 +1,4 @@
+pwd : print working directory
+cd : change directory
+cat : display contents of file
+ls : list directories
